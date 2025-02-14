@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently studying in University Of Information Technology - VNUHCM
+🌱 I enjoy taking up complex problems and turning them into simple and beautiful solutions.
+👯 I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be Python, SQL.
+📫 Reach me out @linkedin
